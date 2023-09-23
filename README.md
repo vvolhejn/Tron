@@ -10,3 +10,7 @@ https://github.com/vvolhejn/Tron/assets/8401624/ecff491e-ca8b-4769-becc-70003984
 One issue is that most keyboards can only detect a certain number of simultaneous key presses,
 and with four people mashing keys at once, you hit this limit quite often.
 That means that your keystrokes get ignored sometimes.
+
+To play the game, build the source code or directly download [Tron.jar](/dist/Tron.jar) if you trust me 😉
+
+This repo serves as an archive and I will not be updating the game.
